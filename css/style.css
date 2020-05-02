@@ -685,7 +685,7 @@ h2 {
     z-index: 1;
 }
 .pricing-table .pricing-head .price-tag-circle span.price:after {
-    content: "$";
+    content: "￥";
     position: absolute;
     width: 20px;
     height: auto;
